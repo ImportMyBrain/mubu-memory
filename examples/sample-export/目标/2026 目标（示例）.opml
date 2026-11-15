@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>2026 目标（示例）</title>
+  </head>
+  <body>
+    <outline text="2026 目标">
+      <outline text="学习">
+        <outline text="每周写一次复盘"/>
+        <outline text="读完 12 本书"/>
+      </outline>
+      <outline text="健康">
+        <outline text="每周运动 3 次"/>
+      </outline>
+    </outline>
+  </body>
+</opml>

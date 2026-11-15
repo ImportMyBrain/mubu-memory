@@ -1,0 +1,7 @@
+interface:
+  display_name: "Mubu Memory"
+  short_description: "Recall relevant notes from a Mubu account before answering"
+  default_prompt: "Use $mubu-memory to recall relevant Mubu notes before answering."
+
+policy:
+  allow_implicit_invocation: true

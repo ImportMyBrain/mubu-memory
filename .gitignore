@@ -1,0 +1,11 @@
+MEMORY_PACK*.md
+MUBU_MEMORY_PACK*.md
+MUBU_NOTES*/
+MUBU_EXPORT*/
+node_modules/
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+.idea/
+.vscode/

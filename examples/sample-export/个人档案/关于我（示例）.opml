@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>关于我（示例）</title>
+  </head>
+  <body>
+    <outline text="示例用户">
+      <outline text="偏好">
+        <outline text="喜欢结构化笔记"/>
+        <outline text="回答问题要直接，不要客套"/>
+        <outline text="中文为主"/>
+      </outline>
+      <outline text="背景">
+        <outline text="大三，准备考研"/>
+        <outline text="平时用幕布记大纲笔记" _note="这是一条示例备注"/>
+      </outline>
+    </outline>
+  </body>
+</opml>
